@@ -1,0 +1,7 @@
+#home{
+    background:linear-gradient(to bottom left,red,  blue, white);
+    background-repeat:no-repeat;
+    width:95%;
+    max-width: 990px;
+    margin: 0 auto;
+}
